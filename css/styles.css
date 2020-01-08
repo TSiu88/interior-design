@@ -1,7 +1,8 @@
 .column {
-  width: 300px;
+  width: 307px;
   float: left;
   margin: 20px;
+  padding: 5px;
 }
 
 img{
@@ -14,4 +15,16 @@ img{
 h1{
   font-family: cursive;
   font-size: 60px;
+}
+
+.column.red {
+  background-color: red;
+}
+
+.column.blue{
+  background-color: blue;
+}
+
+.column.green{
+  background-color: green;
 }
