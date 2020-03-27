@@ -1,7 +1,6 @@
-# _[My First Webpage](https://github.com/TSiu88/interior-design)_
-#### _[Live Site Link](https://tsiu88.github.io/interior-design/)_
+# _[Interior Design](https://github.com/TSiu88/interior-design)_
 
-#### _First HTML Exercise, 01.08.2020_
+#### _CSS Float for columns, 01.08.2020_
 
 #### By _**Tiffany Siu and Andriy Veremyeyev**_
 
